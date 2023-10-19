@@ -18,7 +18,7 @@ body {
 main {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  width: 80%;
+  width: 70%;
 }
 #block-1,
 #block-2,
