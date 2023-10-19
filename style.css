@@ -1,10 +1,10 @@
 @font-face {
   font-family: "lexend";
-  src: url(/fonts/LexendDeca-VariableFont_wght.ttf);
+  src: url(fonts/LexendDeca-VariableFont_wght.ttf);
 }
 @font-face {
   font-family: "shoulder";
-  src: url(/fonts/BigShouldersDisplay-VariableFont_wght.ttf);
+  src: url(fonts/BigShouldersDisplay-VariableFont_wght.ttf);
 }
 body {
   font-size: 15px;
